@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+state.json
+state.tmp
+x_daily_manager.log
